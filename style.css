@@ -68,6 +68,7 @@ section > p{
     background-position: right center;
     background-size: cover;
     background-attachment: fixed;
+    box-shadow: inset 6px 6px 15px 3px rgba(0, 0, 0, 0.63);
 }
 
 .img1 > p{
@@ -84,6 +85,7 @@ section > p{
     background-position: center center;
     background-size: cover;
     background-attachment: fixed;
+    box-shadow: inset 6px 6px 15px 3px rgba(0, 0, 0, 0.63);
     
 }
 
